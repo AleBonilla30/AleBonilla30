@@ -63,8 +63,8 @@ Here are some of my favorite repos:
 - ![Profile views](https://komarev.com/ghpvc/?username=AleBonilla30&color=brightgreen)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleBonilla30&show_icons=true&theme=radical" alt="AleBonilla30's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleBonilla30&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AleBonilla30&show_icons=true&theme=radical&cache_seconds=3600" alt="AleBonilla30's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleBonilla30&layout=compact&theme=radical&cache_seconds=3600" alt="Top Langs"/>
 </div>
 
 ---
