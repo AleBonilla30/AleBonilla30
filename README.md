@@ -19,10 +19,10 @@ After diving into the field of programming, I've developed a strong interest in 
 
 - ## 💼 My Highlighted Projects
 Here are some of my favorite repos:
-- [**Bingo**](https://github.com/AleBonilla30/BingoGame) - Un ejercicio de bingo hecho con **Java**.
-- [**Aplicación de Compras en Java**](https://github.com/AleBonilla30/Tienda) - Una aplicación para gestionar compras de productos **Java** con **Swing**.
-- [**Carrera de coches**](https://github.com/AleBonilla30/Carreras_Coche) - Proyecto en **Java**.
-- [**Biblioteca**](https://github.com/AleBonilla30/Biblioteca) - Otro proyecto evaluable en **Java**.
+- [**Bingo**](https://github.com/AleBonilla30/BingoGame) - A bingo exercise made with **Java**.
+- [**Aplicación de Compras en Java**](https://github.com/AleBonilla30/Tienda) - An application for managing product purchases using **Java** con **Swing**.
+- [**Carrera de coches**](https://github.com/AleBonilla30/Carreras_Coche) - A project developed in **Java**.
+- [**Biblioteca**](https://github.com/AleBonilla30/Biblioteca) - Another evaluable project developed in **Java**.
 ---
  
 - ## 🚀 My Tech Stack:
@@ -45,20 +45,20 @@ Here are some of my favorite repos:
 ---
 ## 🚀 Upcoming Technologies
 
-As I embark on my second year of training, I'm excited to dive into and explore the following technologies:
+🚀 **As I step into my second year of studies, I’m thrilled to embark on a journey to discover and master the following cutting-edge technologies:**
 
-### Languages:
+### 🌐Languages:
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**: Server-side scripting language for dynamic web development.
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**: A powerful server-side scripting language that enables the creation of dynamic and interactive web applications.
 
-### Frameworks:
+### ⚙️Frameworks:
 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React**: A JavaScript library for creating dynamic user interfaces and seamless single-page applications.
-- ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white) **Vue.js**: Empowering the creation of interactive interfaces with an approachable and versatile framework.
-- ![Angular](https://img.shields.io/badge/Angular-D60000?style=for-the-badge&logo=angular&logoColor=white) **Angular**: A robust framework for building scalable web applications with TypeScript.
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React**: An innovative JavaScript library designed for crafting dynamic user interfaces and delivering smooth single-page applications.
+- ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white) **Vue.js**: A flexible and user-friendly framework that empowers developers to build interactive interfaces with ease.
+- ![Angular](https://img.shields.io/badge/Angular-D60000?style=for-the-badge&logo=angular&logoColor=white) **Angular**: A comprehensive framework for developing scalable web applications, leveraging the power of TypeScript.
 - ---
 
-- ## 📊 Mis estadísticas en GitHub
+- ## 📊 My GitHub Stats
 -  ![GitHub stars](https://img.shields.io/github/stars/AleBonilla30?style=social)
 - ![Profile views](https://komarev.com/ghpvc/?username=AleBonilla30&color=brightgreen)
 
